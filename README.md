@@ -1,6 +1,6 @@
 <h2> Hi, I'm mavericknerd!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mavericknerd&show_icons=true&theme=radical" width="380">
-<p><em>Linux Security Engineer and Bugbounty Hunter <br>
+<p><em>Linux Security Engineer and Bugbounty Hunter and OSCP Certified <br>
   Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
